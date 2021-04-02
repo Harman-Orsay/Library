@@ -1,7 +1,23 @@
-//: [Previous](@previous)
+/*: [Previous](@previous)
+ 
+ # Architecture
+ 
+ - Coordinator - Router
+ - Routers
+    - Modal
+    - Navigation
+    - App
+ - Use case
+ 
+ [Next](@next)
+ 
+ 
+ # Patterns (quick reference)
+ 
+ 
+ 
+ 
+ 
+ */
 
-import Foundation
 
-var str = "Hello, playground"
-
-//: [Next](@next)

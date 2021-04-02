@@ -6,6 +6,7 @@
 //
 
 import Combine
+import Foundation
 
 protocol Router {
     func dataTaskPublisher(for request: URLRequest) -> AnyPublisher<(data: Data, response: URLResponse), URLError>

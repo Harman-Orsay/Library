@@ -1,7 +1,8 @@
-//: [Previous](@previous)
-
-import Foundation
-
-var str = "Hello, playground"
-
-//: [Next](@next)
+/*: [Previous](@previous)
+ 
+ # Combine
+ 
+ - Share replay publisher
+ 
+ [Next](@next)
+ */

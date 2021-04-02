@@ -1,7 +1,9 @@
-//: [Previous](@previous)
-
-import Foundation
-
-var str = "Hello, playground"
-
-//: [Next](@next)
+/*: [Previous](@previous)
+ 
+ # Concurrency
+ 
+ - Async operation
+ - Worker thread
+ 
+ [Next](@next)
+ */

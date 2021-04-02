@@ -1,11 +1,11 @@
 //
 //  MockRouter.swift
-//  CodeChallengeModel
 //
 //  Created by Rohan Ramsay on 25/12/20.
 //
 
 import Combine
+import Foundation
 
 //FOR QUICK N DIRTY in unit testing :- e.g. multiple calls within same tests, different error types etc.
 

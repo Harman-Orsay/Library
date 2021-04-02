@@ -18,6 +18,7 @@ public class ReachabilityObserver: Observer {
             switch path.status {
             case .satisfied: self = .reachable(isCellular: path.isExpensive)
             case .unsatisfied, .requiresConnection: self = .notReachable
+            @unknown default: self = .notReachable
             }
         }
     }

@@ -1,13 +1,12 @@
 //
 //  UIScrollView.swift
-//  CodeChallenge1AllNative
 //
 //  Created by Rohan Ramsay on 18/12/20.
 //
 
 import UIKit
 
-extension UIScrollView {
+public extension UIScrollView {
     
     func hasScrolledToBottom() -> Bool {
         bounds.size.height + contentOffset.y >= contentSize.height
