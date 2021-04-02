@@ -3,6 +3,9 @@
  # Architecture
  
  - Coordinator - Router
+ - Coordinators
+    - AppCoordinator
+    - SplitViewCoordinator
  - Routers
     - Modal
     - Navigation
@@ -12,11 +15,12 @@
  [Next](@next)
  
  
- # Patterns (quick reference)
+ # Patterns
+ Todo - quick reference - structure
  
- 
- 
- 
+ - MVVMC
+ - VIPER
+ -  MVVM (Unofficial coordinators - Responders)
  
  */
 
